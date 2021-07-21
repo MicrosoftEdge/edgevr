@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" height="269.9999999999918pt" width="590.0000000000073pt" viewBox="525 487 598.0000000000073 275.9999999999918"><defs><style type="text/css">
+        @font-face {
+            font-family: 'lt_bold';
+            src: url('https://app.creately.com/diagram/assets/fonts/lato/lt-bold-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/lato/lt-bold-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'lt_bold_italic';
+            src: url('https://app.creately.com/diagram/assets/fonts/lato/lt-bolditalic-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/lato/lt-bolditalic-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'lt_italic';
+            src: url('https://app.creately.com/diagram/assets/fonts/lato/lt-italic-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/lato/lt-italic-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'lt_regular';
+            src: url('https://app.creately.com/diagram/assets/fonts/lato/lt-regular-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/lato/lt-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'lt-hairline';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/lt-hairline-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/lt-hairline-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'lt-thinitalic';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/lt-thinitalic-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/lt-thinitalic-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'champagne';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/champagne-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/champagne-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'indie';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/indie-flower-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/indie-flower-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'bebas';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/bebasneue_regular-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/bebasneue_regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'bree';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/breeserif-regular-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/breeserif-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'spartan';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/leaguespartan-bold-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/leaguespartan-bold-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'montserrat';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/montserrat-medium-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/montserrat-medium-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'open_sanscondensed';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/opensans-condlight-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/opensans-condlight-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'open_sansitalic';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/opensans-italic-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/opensans-italic-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'playfair';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/playfairdisplay-regular-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/playfairdisplay-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'raleway';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/raleway-regular-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/raleway-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'courier_prime';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/courier_prime-webfont.woff2') format('woff2'),
+                url('https://app.creately.com/diagram/assets/fonts/embed/courier_prime-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'droid_serifregular';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/droid-serif-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'abhaya_libreregular';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/abhaya-libre-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'gandhi_serifregular';
+            src: url('https://app.creately.com/diagram/assets/fonts/embed/gandhi-serif-regular-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'noto_bold';
+            src: url('https://app.creately.com/diagram/assets/fonts/noto/noto-bold.woff') format('woff'),
+                 url('https://app.creately.com/diagram/assets/fonts/noto/noto-bold.woff2') format('woff2');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'noto_bolditalic';
+            src: url('https://app.creately.com/diagram/assets/fonts/noto/noto-bolditalic.woff') format('woff'),
+                 url('https://app.creately.com/diagram/assets/fonts/noto/noto-bolditalic.woff2') format('woff2');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'noto_italic';
+            src: url('https://app.creately.com/diagram/assets/fonts/noto/noto-italic.woff') format('woff'),
+                 url('https://app.creately.com/diagram/assets/fonts/noto/noto-italic.woff2') format('woff2');
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'noto_regular';
+            src: url('https://app.creately.com/diagram/assets/fonts/noto/noto-regular.woff') format('woff'),
+                 url('https://app.creately.com/diagram/assets/fonts/noto/noto-regular.woff2') format('woff2');
+            font-weight: normal;
+            font-style: normal;
+        }
+        p {
+            margin: 0;
+        }
+        </style></defs><defs><style>
+            span{ display: inline-block; }
+        </style></defs><g id="jGEaXfPEmDZ"><g transform="translate(530 490)"><rect x="0" y="0" width="590.0000000000073" height="269.99999999999176" fill="rgb(255,255,255)" stroke="#2F2F2F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0 0"/></g><g transform="translate(825.0000000000036, 616.2499999999959) rotate(0, 0, 8.75)" width="0" height="17.5"><text text-decoration="none" x="0" fill="#4b4b4b" font-size="10pt" font-family="noto_regular"  y="15"></text></g></g><g id="2RT30xVjBbZ"><g transform="translate(720 520)"><rect x="0" y="0" width="179.99999999999994" height="45.5" fill="rgb(255,255,255)" stroke="#2F2F2F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0 0"/></g><g transform="translate(746.30859375, 530) rotate(0, 63.69140625, 12.75)" width="127.3828125" height="25.5"><text text-decoration="none" x="0" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="20">iframe&#160;</text><text text-decoration="none" x="62.2578125" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="20">A&#160;</text><text text-decoration="none" x="79.046875" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="20">(RFH)</text><text text-decoration="none" x="127.3828125" fill="#4b4b4b" font-size="10pt" font-family="noto_regular"  y="20"></text></g></g><g id="WUUEln6vsWQ"><g transform="translate(610.0000000000001 640)"><rect x="0" y="0" width="400.0000000000007" height="96.5" fill="rgb(255,255,255)" stroke="#2F2F2F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0 0"/></g><g transform="translate(678.9960937500005, 650) rotate(0, 131.00390625, 38.25)" width="262.0078125" height="76.5"><text text-decoration="none" x="20.9296875" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="20">Create&#160;</text><text text-decoration="none" x="83.546875" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="20">SmsFetcherImpl&#160;</text><text text-decoration="none" x="230.796875" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="20">+&#160;</text><text text-decoration="none" x="0" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="45.5">SmsProvidergmsUserConsent</text><text text-decoration="none" x="262.0078125" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="45.5"></text><text text-decoration="none" x="4.4921875" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="71">with&#160;</text><text text-decoration="none" x="51.953125" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="71">raw&#160;</text><text text-decoration="none" x="89.6640625" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="71">ptr&#160;</text><text text-decoration="none" x="120.4453125" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="71">to&#160;</text><text text-decoration="none" x="143.328125" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="71">iframe&#160;</text><text text-decoration="none" x="205.5859375" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="71">A&#160;</text><text text-decoration="none" x="222.375" fill="#2f2f2f" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="71">RFH</text><text text-decoration="none" x="257.515625" fill="#4b4b4b" font-size="10pt" font-family="noto_regular"  y="71"></text></g></g><g id="jfxIyrguDwE"><g transform="translate(810 580)"><rect x="0" y="0" width="302.2734375" height="45.5" fill="rgba(255,255,255,0.01)" stroke="rgba(255,255,255,0.01)"  stroke-dasharray="0 0"/></g><g transform="translate(820, 590) rotate(0, 0, 0)" width="282.2734375" height="25.5"><text text-decoration="none" x="0" fill="#4b4b4b" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="20">BindSmsReceiverReceiver&#160;</text><text text-decoration="none" x="229.7578125" fill="#4b4b4b" font-weight="bold" font-size="14pt" font-family="noto_regular"  y="20">(bind)</text><text text-decoration="none" x="282.2734375" fill="#4b4b4b" font-size="10pt" font-family="noto_regular"  y="20"></text></g></g><g id="93Edr4Ce6MY"><g><path d="M 810,566 L 810,640" fill="none" stroke="#054F7A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3 3"/><path d="M 810,640 L 815.75,631.3043478260869 L 804.25,631.304347826087 Z" fill="rgb(5,79,122)" stroke="#054F7A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g></g></svg>
